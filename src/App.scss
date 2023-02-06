@@ -17,9 +17,11 @@ body{
     .inTable{
         pointer-events: none ;
     }
-    tr{
+    tr{ 
+        
         color: #000000;
         background: #fff;
+        border-bottom: #000000;
         &:hover{
             background:#0065BD;
             color:#fff;
