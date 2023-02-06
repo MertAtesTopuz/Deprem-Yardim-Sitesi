@@ -13,10 +13,14 @@ function App() {
         setDeprem(data);
       });
   }, []);
-  return (
-    
-  );
 
+  console.log(deprem)
+  return (
+    <div>
+      <h1>Deprem</h1>
+      
+    </div>
+  );
 }
 
 export default App;
