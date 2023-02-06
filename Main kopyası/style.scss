@@ -1,0 +1,282 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #fff;
+    color: black;
+}
+
+h1 {
+    color: black;
+    margin: 20px 0px 20px;
+    font-size: 60px;
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 3%;
+    background-color: white;
+    padding-bottom: 20px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2);
+
+    li {
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px 25px;
+
+        a {
+            padding-top: 10px;
+            color: black;
+            text-decoration: none;
+            font-weight: bold;
+            position: relative;
+        }
+
+        a::after {
+            content: '';
+            width: 0%;
+            height: 3px;
+            background: #0065BD;
+            position: absolute;
+            left: 0;
+            bottom: -6px;
+            border-radius: 10px;
+            transition: 0.5s;
+        }
+
+        a:hover::after {
+            width: 100%;
+        }
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+}
+
+.logo {
+    color: black;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: sans-serif;
+
+    span {
+        color: #0065BD;
+    }
+}
+
+/* yardim Kuruluşları */
+
+.yardim {
+    padding: 90px 0;
+    color: black;
+    background-color: white;
+    display: flex;
+    width: 100%;
+
+    &-head {
+        color: #0065BD;
+        font-size: 45px;
+        text-transform: capitalize;
+        padding-top: 30px;
+        padding-bottom: 20px;
+        text-align: center;
+        margin: 0 3.5%;
+
+        &-m {
+            color: #0065BD;
+            font-size: 40px;
+            text-transform: capitalize;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        &-o {
+            color: #0065BD;
+            font-size: 35px;
+            text-align: center;
+            text-decoration: underline;
+            text-transform: capitalize;
+            margin-bottom: 50px;
+            margin-right: 60px;
+        }
+
+    }
+
+    div {
+        width: 100%;
+    }
+
+    &-past {
+
+        p {
+            padding-left: 50px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            text-align: center;
+        }
+    }
+
+
+
+    .section-y-1 {
+        display: flex;
+
+        .school-head {
+            color: #0065BD;
+            font-size: 30px;
+            text-align: left;
+            padding-top: 30px;
+            text-decoration: underline;
+            text-transform: capitalize;
+            margin-bottom: 10px;
+            margin-left: 50px;
+        }
+
+        h4 {
+            color: #0065BD;
+            font-size: 25px;
+            text-align: left;
+            text-decoration: underline;
+            text-transform: capitalize;
+            margin-bottom: 20px;
+        }
+
+    }
+
+    .sec-img {
+        text-align: center;
+        margin-left: 40px;
+        flex-basis: 50%;
+
+        img {
+            width: 60%;
+            height: auto;
+            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2);
+        }
+    }
+
+
+    .sec-p {
+        flex-basis: 50%;
+        margin-right: 40px;
+
+        p {
+            font-size: 15px;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        &-i {
+            display: flex;
+        }
+
+        &-1 {
+            flex-basis: 50%;
+            padding-right: 20px;
+        }
+
+        &-2 {
+            flex-basis: 50%;
+            padding-left: 10px;
+        }
+    }
+
+    &-div {
+
+        ul {
+            padding-left: 15px;
+
+            li {
+                padding-bottom: 10px;
+            }
+        }
+
+    }
+
+    .line4 {
+        background-color: #242424;
+        height: 10px;
+        margin: 20px 3.5%;
+        width: 93%;
+    }
+
+}
+
+/* Toplanma alanları */
+
+.alan {
+    .main-div {
+        margin: 0 10%;
+
+        .harita {
+            padding-top: 120px;
+            padding-bottom: 10px;
+
+            iframe {
+                width: 100%;
+                height: 550px;
+            }
+        }
+
+        .yazi {
+            padding-top: 10px;
+
+            .section-t-a {
+                padding-bottom: 10px;
+
+                p {
+                    font-size: 20px;
+                }
+            }
+
+            sehirler {
+                city-list {
+                    display: flex;
+
+                    city {
+                        display: flex;
+
+                        h3 {
+                            color: #0065BD;
+                        }
+
+                        .ul-1 {
+                            flex-basis: 45%;
+                        }
+
+                        .ul-2 {
+                            flex-basis: 50%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .line-a {
+        background-color: #242424;
+        height: 10px;
+        margin: 20px 0;
+        width: 100%;
+    }
+}

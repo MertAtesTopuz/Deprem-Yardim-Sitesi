@@ -30,28 +30,7 @@ function App() {
   console.log(depremler)
   console.log(durum)
   return (
-    <div className='container'>
-      <h1>Depremler</h1>
-      
-      <table className='deprem'>
-        <tr className='inTable'>
-            <th>Konum</th>
-            <th>Tarih</th>
-            <th>Büyüklük</th>
-            <th>Derinlik</th>
-            </tr>
-      {depremler.map(deprem => (
-            <tr>
-            <td className='al'>{deprem.title}</td>
-            <td>{deprem.date}</td>
-            <td>{deprem.mag}</td>
-            <td className='al'>{deprem.depth + " km"}</td>
-            </tr>
-      ))}
-      </table>
-      
-      
-    </div>
+    
   );
 }
 
