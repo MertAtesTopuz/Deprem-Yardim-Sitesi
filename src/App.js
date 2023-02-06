@@ -1,23 +1,55 @@
 import { useState, useEffect } from 'react';
-import './App.css';
+import './App.scss';
 
 
 function App() {
 
-  const [deprem, setDeprem] = useState("");
+  const [depremler, setDepremler] = useState([]);
+  const [durum, setDurum] = useState([]);
 
   useEffect(() => {
-    fetch('https://api.orhanaydogdu.com.tr/deprem/live.php?limit=100')
+     if(depremler === null || depremler === undefined){
+      fetch('https://api.orhanaydogdu.com.tr/deprem/live.php?limit=100')
       .then(response => response.json())
-      .then(data => {
-        setDeprem(data);
+      .then(depremlerData => {
+        setDepremler(depremlerData.result);
+        setDurum(depremlerData.status);
       });
-  }, []);
+      }
+      else if(depremler.length === 0){
+        fetch('https://api.orhanaydogdu.com.tr/deprem/live.php?limit=100')
+        .then(response => response.json())
+        .then(depremlerData => {
+          setDepremler(depremlerData.result);
+          setDurum(depremlerData.status);
+        });}
+  }, [depremler]);
 
-  console.log(deprem)
+  
+
+  console.log(depremler)
+  console.log(durum)
   return (
-    <div>
-      <h1>Deprem</h1>
+    <div className='container'>
+      <h1>Depremler</h1>
+      
+      <table className='deprem'>
+        <tr className='inTable'>
+            <th>Konum</th>
+            <th>Tarih</th>
+            <th>Büyüklük</th>
+            <th>Derinlik</th>
+            </tr>
+      {depremler.map(deprem => (
+            <tr>
+            <td className='al'>{deprem.title}</td>
+            <td>{deprem.date}</td>
+            <td>{deprem.mag}</td>
+            <td className='al'>{deprem.depth + " km"}</td>
+            </tr>
+      ))}
+      </table>
+      
       
     </div>
   );

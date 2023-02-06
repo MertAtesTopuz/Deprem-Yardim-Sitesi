@@ -1,0 +1,58 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    margin-top: 5rem;
+    text-align: center;
+    > h1{
+        font-weight: 900;
+        font-size: 2rem;
+    }
+}
+   .deprem{
+    text-align: center;
+    .inTable{
+        pointer-events: none ;
+    }
+    tr{
+        color: #000000;
+        background: #fff;
+        &:hover{
+            background:#0065BD;
+            color:#fff;
+            } 
+        }
+    th{
+        color: #0065BD;
+        padding: 6px 6px 6px 12px;
+        pointer-events: none ;
+        }
+
+         
+        td{
+        padding: 6px 6px 6px 12px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 300;
+        }
+    .al{
+        text-align: left;
+    }
+
+   }
+
+   @media screen and (max-width: 768px) {
+    .container{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    .deprem{
+        font-size: .8rem;
+        text-align: left;
+    }
+   }
+    
+   
