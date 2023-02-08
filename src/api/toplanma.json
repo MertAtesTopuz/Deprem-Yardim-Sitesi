@@ -1,0 +1,734 @@
+[
+    {
+        "id": 1,
+        "city": "Adana",
+        "area": "Kat'ül Amare Yurdu",
+        "link": "https://goo.gl/maps/iogBmV9EtCSnqRfJ7"
+    },
+    {
+        "id": 2,
+        "city": "Adana",
+        "area": "Yeni Adana Stadyumu",
+        "link": "https://goo.gl/maps/mSWZv7WFy7XanLuy7"
+    },
+    {
+        "id": 3,
+        "city": "Adana",
+        "area": "Asım Savaş Spor Salonu",
+        "link": "https://goo.gl/maps/pAj1Vau2UX2hby9s6"
+    },
+    {
+        "id": 4,
+        "city": "Adana",
+        "area": "Çukurova Yurdu",
+        "link": "https://goo.gl/maps/ifyXeRSCPs4K8ZPj7"
+    },
+    {
+        "id": 5,
+        "city": "Adana",
+        "area": "Toroslar Yurdu",
+        "link": "https://goo.gl/maps/ug5WjXTbpnXewcG16"
+    },
+    {
+        "id": 6,
+        "city": "Adana",
+        "area": "Yüreğir Kamp Eğitim Merkezi",
+        "link": "https://goo.gl/maps/Lhqamgpu2JQmZ5HX8"
+    },
+    {
+        "id": 7,
+        "city": "Adana",
+        "area": "Serinevler Spor Salonu",
+        "link": "https://goo.gl/maps/14U7Lurh98pcaQzD6"
+    },
+    {
+        "id": 8,
+        "city": "Adana",
+        "area": "Yüreğir Gençlik Merkezi",
+        "link": "https://goo.gl/maps/PGoGELxL1SMUVUqr7"
+    },
+    {
+        "id": 9,
+        "city": "Adana",
+        "area": "İsmet Atlı Güreş Eğitim Merkezi",
+        "link": "https://goo.gl/maps/DxC8rKhNAcbonbhf6"
+    },
+    {
+        "id": 10,
+        "city": "Adana",
+        "area": "TOHM Binası",
+        "link": "https://goo.gl/maps/X3etpDR22RjwiKzBA"
+    },
+    {
+        "id": 11,
+        "city": "Adana",
+        "area": "Nihat Geven Spor Salonu",
+        "link": "https://goo.gl/maps/7wMibbgjWNCUxrxY9"
+    },
+    {
+        "id": 12,
+        "city": "Adana",
+        "area": "Menderes Spor Salonu",
+        "link": "https://goo.gl/maps/6B1xNqTUevb2R3UT9"
+    },
+    {
+        "id": 13,
+        "city": "Adana",
+        "area": "Atatürk Yüzme Havuzu",
+        "link": "https://goo.gl/maps/dkmU8v4AomZnYyif7"
+    },
+    {
+        "id": 14,
+        "city": "Adana",
+        "area": "Adana Gençlik Merkezi",
+        "link": "https://goo.gl/maps/QfdgrJHkfTqYd8T37"
+    },
+    {
+        "id": 15,
+        "city": "Adana",
+        "area": "Cukurova Atletizm Pisti",
+        "link": "https://goo.gl/maps/AHavqQ3cPyqVzqa97"
+    },
+    {
+        "id": 16,
+        "city": "Adana",
+        "area": "Ceyhan Spor Salonu",
+        "link": "https://goo.gl/maps/WgFs6JRZ74Geko287"
+    },
+    {
+        "id": 17,
+        "city": "Adana",
+        "area": "Kozan Yurdu",
+        "link": "https://goo.gl/maps/8bNBCfxdeTfTKyCk9"
+    },
+    {
+        "id": 18,
+        "city": "Adana",
+        "area": "Kamp Eğitim Merkezi",
+        "link": " "
+    },
+    {
+        "id": 19,
+        "city": "Malatya",
+        "area": "Yeşilyurt Merkez Spor Salonu",
+        "link": "https://goo.gl/maps/NmxfMNLb6c6CkEn5A"
+    },
+    {
+        "id": 20,
+        "city": "Malatya",
+        "area": "Çok Amaçlı Spor Salonu",
+        "link": "https://goo.gl/maps/kQjokr2NeJimtMAk7"
+    },
+    {
+        "id": 21,
+        "city": "Malatya",
+        "area": "Olimpik Kapalı Yüzme Havuzu",
+        "link": "https://goo.gl/maps/CVnrJw8MgbudoVuQ7"
+    },
+    {
+        "id": 22,
+        "city": "Malatya",
+        "area": "Beydağı Gençlik Merkezi",
+        "link": "https://goo.gl/maps/piq7FGjgfS1zFxa98"
+    },
+    {
+        "id": 23,
+        "city": "Malatya",
+        "area": "Fırat Gençlik Merkezi",
+        "link": "https://goo.gl/maps/uv1dWgxt1GakYPmo8"
+    },
+    {
+        "id": 24,
+        "city": "Malatya",
+        "area": "Cimnastik Salonu",
+        "link": "https://goo.gl/maps/GdbizA7Uj57KBmnE6"
+    },
+    {
+        "id": 25,
+        "city": "Malatya",
+        "area": "Hanımın Çiftliği Gençlik Merkezi",
+        "link": " "
+    },
+    {
+        "id": 26,
+        "city": "Malatya",
+        "area": "Eşref Bitlis Erkek Öğrenci Yurdu",
+        "link": "https://goo.gl/maps/X8ag4pvMERtCmYZe9"
+    },
+    {
+        "id": 27,
+        "city": "Malatya",
+        "area": "İlhan Akıncı Erkek Öğrenci Yurdu",
+        "link": "https://goo.gl/maps/tXykszjcdEvMHJVm8"
+    },
+    {
+        "id": 28,
+        "city": "Malatya",
+        "area": "Battalgazi Kız Öğrenci Yurdu",
+        "link": "https://goo.gl/maps/FpntkZBvQf3qEn3L6"
+    },
+    {
+        "id": 29,
+        "city": "Gaziantep",
+        "area": "Olimpik Yüzme Havuzu",
+        "link": "https://goo.gl/maps/1PsQkTGGFGTen5gD6"
+    },
+    {
+        "id": 30,
+        "city": "Gaziantep",
+        "area": "Gazikent Spor Salonu",
+        "link": "https://goo.gl/maps/rPxjdFdGYiACpfgEA"
+    },
+    {
+        "id": 31,
+        "city": "Gaziantep",
+        "area": "Çok Amaçlı Spor Salonu",
+        "link": "https://goo.gl/maps/HifPuLw4kbWav6Xh6"
+    },
+    {
+        "id": 32,
+        "city": "Gaziantep",
+        "area": "Şahinbey Spor Salonu",
+        "link": "https://goo.gl/maps/CzY9KncChb3LDbBG7"
+    },
+    {
+        "id": 33,
+        "city": "Gaziantep",
+        "area": "Kalyoncu Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 34,
+        "city": "Gaziantep",
+        "area": "Seyr-i Antep Gençlik Kampi",
+        "link": " "
+    },
+    {
+        "id": 35,
+        "city": "Gaziantep",
+        "area": "İslahiye Gençlik Merkezi",
+        "link": "https://goo.gl/maps/VFczfxUGesj7YW629"
+    },
+    {
+        "id": 36,
+        "city": "Gaziantep",
+        "area": "Oğuzeli Spor Salonu",
+        "link": "https://goo.gl/maps/MFESLimtAfKSXEV57"
+    },
+    {
+        "id": 37,
+        "city": "Gaziantep",
+        "area": "Nizip Gençlik Merkezi",
+        "link": "https://goo.gl/maps/fUdc6dpfNTirsyid6"
+    },
+    {
+        "id": 38,
+        "city": "Gaziantep",
+        "area": "Nizip Stadyumu",
+        "link": "https://goo.gl/maps/mu7gQCwpnAKto7Kq5"
+    },
+    {
+        "id": 39,
+        "city": "Gaziantep",
+        "area": "Nizip Spor Salonu",
+        "link": "https://goo.gl/maps/GNJzyFPmn3EiHiyd7"
+    },
+    {
+        "id": 40,
+        "city": "Gaziantep",
+        "area": "Yavuzeli Spor Salonu",
+        "link": "https://goo.gl/maps/ZQ692iw2vPohxKAu5"
+    },
+    {
+        "id": 41,
+        "city": "Gaziantep",
+        "area": "Araban Spor Salonu",
+        "link": "https://goo.gl/maps/DCNyv8rZ6fnF3tDC6"
+    },
+    {
+        "id": 42,
+        "city": "Gaziantep",
+        "area": "Araban Gençlik Merkezi",
+        "link": ""
+    },
+    {
+        "id": 43,
+        "city": "Hatay",
+        "area": "Merkez Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 44,
+        "city": "Hatay",
+        "area": "TOKI Spor Salonu",
+        "link": "https://goo.gl/maps/7LN7vFREfvxNU3bk8"
+    },
+    {
+        "id": 45,
+        "city": "Hatay",
+        "area": "Merkez Cimnastik Spor Salonu",
+        "link": "https://goo.gl/maps/E2e3Uvrv7zky2xCi8"
+    },
+    {
+        "id": 46,
+        "city": "Hatay",
+        "area": "Kırıkhan Gençlik Merkezi",
+        "link": "https://goo.gl/maps/D6nTiGkGPg5Ar1Cw5"
+    },
+    {
+        "id": 47,
+        "city": "Hatay",
+        "area": "Reyhanlı Gençlik Merkezi",
+        "link": "https://goo.gl/maps/KqGN9KEjgHK6wtH7A"
+    },
+    {
+        "id": 48,
+        "city": "Hatay",
+        "area": "İskenderun Gençlik",
+        "link": "https://goo.gl/maps/kFHioTKtRAmpxh7SA"
+    },
+    {
+        "id": 49,
+        "city": "Hatay",
+        "area": "Altınözü Gençlik Merkezi",
+        "link": " "
+    },
+    {
+        "id": 50,
+        "city": "Hatay",
+        "area": "Bayat Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 51,
+        "city": "Hatay",
+        "area": "İskenderun Spor Salonu",
+        "link": "https://goo.gl/maps/oYL4nEqbdvCnrU7RA"
+    },
+    {
+        "id": 52,
+        "city": "Hatay",
+        "area": "Dörtyol Spor Salonu",
+        "link": "https://goo.gl/maps/ze6CuPkkzatDKixX7"
+    },
+    {
+        "id": 53,
+        "city": "Hatay",
+        "area": "Kırıkhan Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 54,
+        "city": "Hatay",
+        "area": "Reyhanlı Spor Salonu",
+        "link": "https://goo.gl/maps/N1eWgJNiv3xSv5pu5"
+    },
+    {
+        "id": 55,
+        "city": "Hatay",
+        "area": "Altınözü Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 56,
+        "city": "Şanlıurfa",
+        "area": "11 Nisan Kapalı Spor Salonu",
+        "link": "https://goo.gl/maps/Pzu8eS2e32Ns31Uw6"
+    },
+    {
+        "id": 57,
+        "city": "Şanlıurfa",
+        "area": "İpekyol Gençlik Merkezi",
+        "link": "https://goo.gl/maps/wXZEPrWiXpzqgcD58"
+    },
+    {
+        "id": 58,
+        "city": "Şanlıurfa",
+        "area": "Ahmet Yesevi Gençlik Merkezi",
+        "link": "https://goo.gl/maps/tK5twvz7NZP8ZjdAA"
+    },
+    {
+        "id": 59,
+        "city": "Şanlıurfa",
+        "area": "11 Nisan Tam Olimpik Yüzme Havuzu",
+        "link": "https://goo.gl/maps/RUUNCvtuJiZRpdAf7"
+    },
+    {
+        "id": 60,
+        "city": "Şanlıurfa",
+        "area": "Bahçelievler Gençlik Merkezi",
+        "link": "https://goo.gl/maps/wrc6oW39g97SDnFY8"
+    },
+    {
+        "id": 61,
+        "city": "Şanlıurfa",
+        "area": "Harran Yurdu A Blok",
+        "link": "https://yandex.com.tr/harita/org/harran_yurdu/194407072934/?ll=39.001265%2C37.161521&z=13"
+    },
+    {
+        "id": 62,
+        "city": "Şanlıurfa",
+        "area": "Şanlıurfa Yurdu",
+        "link": " "
+    },
+    {
+        "id": 63,
+        "city": "Şanlıurfa",
+        "area": "Birecik Spor Salonu",
+        "link": "https://goo.gl/maps/YgPCvSKNuNruZshA9"
+    },
+    {
+        "id": 64,
+        "city": "Şanlıurfa",
+        "area": "Karaköprü Gençlik Merkezi",
+        "link": "https://goo.gl/maps/34dWbxaoWVYoxGo89"
+    },
+    {
+        "id": 65,
+        "city": "Şanlıurfa",
+        "area": "Karaköprü Kapalı Spor Salonu",
+        "link": "https://goo.gl/maps/EbLHUveFWRpAfz4P7"
+    },
+    {
+        "id": 66,
+        "city": "Şanlıurfa",
+        "area": "Yenice Kapalı Spor Salonu",
+        "link": "https://goo.gl/maps/8oGhrdcfDFaNbmGd7"
+    },
+    {
+        "id": 67,
+        "city": "Şanlıurfa",
+        "area": "Akçakale Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 68,
+        "city": "Şanlıurfa",
+        "area": "Akçakale Gençlik Merkezi",
+        "link": " "
+    },
+    {
+        "id": 69,
+        "city": "Şanlıurfa",
+        "area": "Harran Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 70,
+        "city": "Şanlıurfa",
+        "area": "Ceylanpınar Spor Salonu",
+        "link": "https://goo.gl/maps/J3bVKJgTwTkTmc1H6"
+    },
+    {
+        "id": 71,
+        "city": "Şanlıurfa",
+        "area": "Ceylanpınar Gençlik Merkezi",
+        "link": "https://goo.gl/maps/yZR275SRz43VK1rJ9"
+    },
+    {
+        "id": 72,
+        "city": "Şanlıurfa",
+        "area": "Viranşehir Gençlik Merkezi",
+        "link": "https://goo.gl/maps/s1kWrNLdrZkwonbX6"
+    },
+    {
+        "id": 73,
+        "city": "Şanlıurfa",
+        "area": "Siverek Spor Salonu",
+        "link": "https://goo.gl/maps/x47JJgUs4ZaM82rSA"
+    },
+    {
+        "id": 74,
+        "city": "Şanlıurfa",
+        "area": "Siverek Gençlik Merkezi",
+        "link": "https://goo.gl/maps/LBwqmFX6XJx7ZdGL7"
+    },
+    {
+        "id": 75,
+        "city": "Şanlıurfa",
+        "area": "Halfeti Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 76,
+        "city": "Şanlıurfa",
+        "area": "Hilvan Spor Salonu, Gençlik Merkezi",
+        "link": "https://goo.gl/maps/hA19kaDJvhnmJoY36"
+    },
+    {
+        "id": 77,
+        "city": "Şanlıurfa",
+        "area": "Suruç Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 78,
+        "city": "Şanlıurfa",
+        "area": "Suruç Gençlik Merkezi",
+        "link": "https://goo.gl/maps/ySeaW5WrR1LSNqZE6"
+    },
+    {
+        "id": 79,
+        "city": "Şanlıurfa",
+        "area": "Bozova Gençlik Merkezi",
+        "link": "https://goo.gl/maps/bbz5MTURyVdfXkPE6"
+    },
+    {
+        "id": 80,
+        "city": "Kilis",
+        "area": "Kilis Gençlik Merkezi",
+        "link": "https://goo.gl/maps/1kPS8CFtUc6FYHk8A"
+    },
+    {
+        "id": 81,
+        "city": "Kilis",
+        "area": "Yüzme Havuzu",
+        "link": "https://goo.gl/maps/zB1KKXhSt2qR5pyQA"
+    },
+    {
+        "id": 82,
+        "city": "Kilis",
+        "area": "Çok Amaçlı Salon",
+        "link": " "
+    },
+    {
+        "id": 83,
+        "city": "Kilis",
+        "area": "Beşevler 2500 Kişilik Spor Salonu",
+        "link": "https://goo.gl/maps/2tc64rAGgCVeJ9HG8"
+    },
+    {
+        "id": 84,
+        "city": "Kilis",
+        "area": "Bilali Habeşi Erkek Yurdu",
+        "link": "https://goo.gl/maps/1P5hZQBkYg9nK7JCA"
+    },
+    {
+        "id": 85,
+        "city": "Kilis",
+        "area": "Söğütlüdere Semt Sahası",
+        "link": "https://goo.gl/maps/a3jWMrSjDKqJCR2s8"
+    },
+    {
+        "id": 86,
+        "city": "Kilis",
+        "area": "7 Aralık Semt Sahası",
+        "link": "https://goo.gl/maps/6ppFKb1kiRzKbEYX7"
+    },
+    {
+        "id": 87,
+        "city": "Osmaniye",
+        "area": "Osmaniye Kız Yurdu",
+        "link": "https://goo.gl/maps/czpqySy16rVkEyyc9"
+    },
+    {
+        "id": 88,
+        "city": "Osmaniye",
+        "area": "Kayıboyu Kız Yurdu",
+        "link": "https://goo.gl/maps/HtQvKRJDboWJeW4V6"
+    },
+    {
+        "id": 89,
+        "city": "Osmaniye",
+        "area": "Karacaoğlan Erkek Yurdu",
+        "link": "https://goo.gl/maps/zAEQgKrvyhwLUUSE8"
+    },
+    {
+        "id": 90,
+        "city": "Osmaniye",
+        "area": "Kadirli Karma Yurt Müdürlüğü",
+        "link": "https://goo.gl/maps/354BELBZ2JTtm7RN6"
+    },
+    {
+        "id": 91,
+        "city": "Osmaniye",
+        "area": "Osmaniye Gençlik Merkezi",
+        "link": "https://goo.gl/maps/2SBdNC95BxhunCwd9"
+    },
+    {
+        "id": 92,
+        "city": "Osmaniye",
+        "area": "Osmaniye Tosyalı Spor Salonu",
+        "link": "https://goo.gl/maps/f4xHiv5J8woZYymR7"
+    },
+    {
+        "id": 93,
+        "city": "Osmaniye",
+        "area": "Osmaniye Çok Amaçlı Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 94,
+        "city": "Osmaniye",
+        "area": "Osmaniye Olimpik Havuz",
+        "link": "https://goo.gl/maps/nu9XZh5to1EJrDin8"
+    },
+    {
+        "id": 95,
+        "city": "Osmaniye",
+        "area": "Osmaniye İl Müdürlüğü Ana Bina",
+        "link": " "
+    },
+    {
+        "id": 96,
+        "city": "Osmaniye",
+        "area": "Kadirli Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 97,
+        "city": "Osmaniye",
+        "area": "Kadirli Gençlik Merkezi",
+        "link": "https://goo.gl/maps/mGvu1tBavHpTH74z5"
+    },
+    {
+        "id": 98,
+        "city": "Osmaniye",
+        "area": "Düziçi Spor Salonu ve Gençlik Merkezi",
+        "link": "https://goo.gl/maps/hQ3VTnL9eFPkS3AN6"
+    },
+    {
+        "id": 99,
+        "city": "Osmaniye",
+        "area": "Bahçe Spor Salonu",
+        "link": "https://goo.gl/maps/YYG2BbzwYmPjsVLc7"
+    },
+    {
+        "id": 100,
+        "city": "Osmaniye",
+        "area": "OKÜ Genç Ofis ve Otag Cadiri",
+        "link": "https://goo.gl/maps/64Y6cke6NbPuJGd26"
+    },
+    {
+        "id": 101,
+        "city": "Osmaniye",
+        "area": "Cevdetiye Spor Eğitim Merkezi",
+        "link": "https://goo.gl/maps/n5v7uz3oJzkdLvuv5"
+    },
+    {
+        "id": 102,
+        "city": "Kahramanmaraş",
+        "area": "Merkez Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 103,
+        "city": "Kahramanmaraş",
+        "area": "Batıpark Spor Salonu",
+        "link": "https://goo.gl/maps/uFPdKxyx1ZXMTAAv9"
+    },
+    {
+        "id": 104,
+        "city": "Kahramanmaraş",
+        "area": "12 Şubat Stadi",
+        "link": "https://goo.gl/maps/WhtJe1aAxbJMRcjSA"
+    },
+    {
+        "id": 105,
+        "city": "Diyarbakır",
+        "area": "Halid Bin Velid Erkek Yurdu Müd.",
+        "link": "https://goo.gl/maps/dbJA7FzDa3uNipAe6"
+    },
+    {
+        "id": 106,
+        "city": "Diyarbakır",
+        "area": "Süleyman Bin Halld Kız Yurdu Müd.",
+        "link": "https://goo.gl/maps/V1ZD5qNaNSsX4CaQ6"
+    },
+    {
+        "id": 107,
+        "city": "Diyarbakır",
+        "area": "Selahattin Eyyubi Kız Yurdu Müd.",
+        "link": "https://goo.gl/maps/2gZcehGkQ5MYcg88A"
+    },
+    {
+        "id": 108,
+        "city": "Diyarbakır",
+        "area": "Kayapınar Şehit Halit Gülser Kompleksi",
+        "link": "https://goo.gl/maps/CTUnFJFKCsEXp89H9"
+    },
+    {
+        "id": 109,
+        "city": "Diyarbakır",
+        "area": "Diyarbakır Stadyumu",
+        "link": "https://goo.gl/maps/2NZUmjLjp771oGTg8"
+    },
+    {
+        "id": 110,
+        "city": "Diyarbakır",
+        "area": "Köşkler Spor Kompleksi",
+        "link": "https://goo.gl/maps/TsJCUeKRnAgiStSN9"
+    },
+    {
+        "id": 111,
+        "city": "Diyarbakır",
+        "area": "Bağlar Gençlik Merkezi",
+        "link": "https://goo.gl/maps/XUAuxEVwVWYvofrY8"
+    },
+    {
+        "id": 112,
+        "city": "Diyarbakır",
+        "area": "Çınar Spor Salonu",
+        "link": "https://goo.gl/maps/oqihapXDquGssyvv5"
+    },
+    {
+        "id": 113,
+        "city": "Diyarbakır",
+        "area": "Genç Ofis",
+        "link": " "
+    },
+    {
+        "id": 114,
+        "city": "Adıyaman",
+        "area": "Yenimahalle",
+        "link": " "
+    },
+    {
+        "id": 115,
+        "city": "Adıyaman",
+        "area": "Spor Salonu",
+        "link": "https://goo.gl/maps/JTBghpz6b3syT2CY9"
+    },
+    {
+        "id": 116,
+        "city": "Adıyaman",
+        "area": "Cumhuriyet Spor Salonu",
+        "link": "https://goo.gl/maps/Wx9kp2BegBEYGv8G9"
+    },
+    {
+        "id": 117,
+        "city": "Adıyaman",
+        "area": "Çok Amaçlı Spor Salonu",
+        "link": "https://goo.gl/maps/85J3HoRZArAWpSCcA"
+    },
+    {
+        "id": 118,
+        "city": "Adıyaman",
+        "area": "Besni İlçe Spor Salonu",
+        "link": "https://goo.gl/maps/qXM16LRkdibph3vs9"
+    },
+    {
+        "id": 119,
+        "city": "Adıyaman",
+        "area": "Kahta liçe Stadi",
+        "link": "https://goo.gl/maps/5TyB4EpknMhSYoNH6"
+    },
+    {
+        "id": 120,
+        "city": "Adıyaman",
+        "area": "Atatürk Spor Salonu",
+        "link": "https://goo.gl/maps/qYWjnbn2N3PB8NEU7"
+    },
+    {
+        "id": 121,
+        "city": "Adıyaman",
+        "area": "Gazi Spor Salonu",
+        "link": " "
+    },
+    {
+        "id": 122,
+        "city": "Adıyaman",
+        "area": "Sincik Spor Salonu",
+        "link": " "
+    }
+]
