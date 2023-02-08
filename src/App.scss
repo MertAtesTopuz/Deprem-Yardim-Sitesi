@@ -130,7 +130,6 @@ nav{
     
    
    .yardim {
-    padding: 90px 0;
     color: black;
     background-color: white;
     display: flex;
@@ -143,7 +142,6 @@ nav{
         padding-top: 30px;
         padding-bottom: 20px;
         text-align: center;
-        margin: 0 3.5%;
 
         &-m {
             color: #0065BD;
@@ -203,20 +201,21 @@ nav{
             text-transform: capitalize;
             margin-bottom: 20px;
         }
-
-    }
-
-    .sec-img {
-        text-align: center;
-        margin-left: 40px;
-        flex-basis: 50%;
-
-        img {
-            width: 60%;
-            height: auto;
-            box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2);
+        .sec-img {
+            text-align: center;
+            margin-left: 40px;
+            flex-basis: 50%;
+    
+            img {
+                width: 60%;
+                height: auto;
+                box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .2);
+            }
         }
+
     }
+
+   
 
 
     .sec-p {
@@ -233,15 +232,6 @@ nav{
             display: flex;
         }
 
-        &-1 {
-            flex-basis: 50%;
-            padding-right: 20px;
-        }
-
-        &-2 {
-            flex-basis: 50%;
-            padding-left: 10px;
-        }
     }
 
     &-div {

@@ -1,13 +1,12 @@
 import '../App.scss';
 
 
-
 function Yardim() {
     return ( 
 
         
-    <div classNameName="yardim">
-        <div classNameName="yardim-div">
+    <div className="yardim">
+        <div className="yardim-div">
             <div className="yardim-past">
                 <h2 className="yardim-head">Yardim Kuruluşları</h2>
 
@@ -26,7 +25,6 @@ function Yardim() {
                 <div className="line4"></div>
 
                 <div className="section-y-1">
-                    <div className="sec-img"><img src="./img/AFAD.webp" alt="" /></div>
                     <div className="sec-p">
                         <h3 className="yardim-head-o">AFAD</h3>
                         <div className="sec-p-i">
@@ -65,7 +63,6 @@ function Yardim() {
                 <div className="line4"></div>
 
                 <div className="section-y-1">
-                    <div className="sec-img"><img src="./img/Kızılay.jpg" alt="" /></div>
                     <div className="sec-p">
                         <h3 className="yardim-head-o">Kızılay</h3>
                         <div className="sec-p-i">
